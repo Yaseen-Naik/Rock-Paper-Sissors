@@ -86,7 +86,7 @@ background-size: contain;
 background-position: center;
 }
 .sizzer{
-background-image: url(Sizzer.jpg);
+background-image: url(Sissors.jpg);
 background-repeat: no-repeat;
 background-size: contain;
 background-position: center;
@@ -123,4 +123,10 @@ footer{
 .startover:active{
     box-shadow:4px 4px 3px 1px black;
     transform:scale(.9)
+}
+footer{
+position:absolute;
+bottom:20px;
+left:15px;
+font-size:2.5vmin;
 }
