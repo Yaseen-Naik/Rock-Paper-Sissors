@@ -9,4 +9,5 @@ This is a simple tic tac toe game you can play against a computer by choosing on
 <img src="images/demo_img.png" alt="Sample Photo">
 
 ## To see the site live click below
+https://yaseen-naik.github.io/Rock-Paper-Sissors/
 
