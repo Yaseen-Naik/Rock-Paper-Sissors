@@ -1,5 +1,5 @@
 
-# Tic Tac Toe Game
+# Rock Paper Sissors
 
 This is a simple tic tac toe game you can play against a computer by choosing one among the three buttons
 
