@@ -1,7 +1,7 @@
 
 # Rock Paper Sissors
 
-This is a simple tic tac toe game you can play against a computer by choosing one among the three buttons
+This is a simple<i> Rock Paper Sissors game </i>you can play against a computer by choosing one among the three buttons
 
 
 ## Demo
