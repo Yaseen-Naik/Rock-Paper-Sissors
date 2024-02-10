@@ -6,4 +6,4 @@ This is a simple tic tac toe game you can play against a computer by choosing on
 
 ## Demo
 
-<img src="images/demo_img.png" alt="Sample Photo">
+<img src="Code/images/demo_img.png" alt="Sample Photo">
