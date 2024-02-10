@@ -74,19 +74,19 @@ transform: scale(.9);
 }
 
 .paper{
-background-image: url(Paper.jpg);
+background-image: url(images/Paper.jpg);
 background-repeat: no-repeat;
 background-size: contain;
 background-position: center;
 }
 .rock{
-background-image: url(Rock.jpg);
+background-image: url(images/Rock.jpg);
 background-repeat: no-repeat;
 background-size: contain;
 background-position: center;
 }
 .sizzer{
-background-image: url(Sissors.jpg);
+background-image: url(images/Sissors.jpg);
 background-repeat: no-repeat;
 background-size: contain;
 background-position: center;
