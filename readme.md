@@ -8,6 +8,7 @@ This is a simple<i> Rock Paper Sissors game </i>you can play against a computer 
 
 <img src="images/demo_img.png" alt="Sample Photo">
 
-## To see the site live click below
-https://yaseen-naik.github.io/Rock-Paper-Sissors/
+## View Live
+<a href="https://yaseen-naik.github.io/Rock-Paper-Sissors/">Click Me</a>
+
 
